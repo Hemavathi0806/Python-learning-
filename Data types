@@ -1,0 +1,49 @@
+What are data types in Python?
+Which data type is used to store:
+Whole numbers
+Decimal numbers
+Text
+True/False values
+What is the difference between int and float?
+Which function is used to check the data type of a value?
+Can variable names start with numbers? Explain.Python
+25
+
+Python
+25.5
+
+Python
+"Hema"
+
+Python
+False
+
+Python
+TruePython
+print(type(10))
+
+Python
+print(type(15.8))
+
+Python
+print(type("Python"))
+
+Python
+print(type(True))Create a file named:
+Python
+datatypes.py
+In datatypes.py, create:
+one integer variable
+one float variable
+one string variable
+one boolean variable
+Print all variables.
+Upload datatypes.py to GitHub.
+Create another file:
+Python
+student.py
+Store:
+student name
+age
+height
+passed status
